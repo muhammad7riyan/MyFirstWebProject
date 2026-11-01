@@ -1,0 +1,42 @@
+body {
+  background:lightblue;
+  font-family: sans-serif;
+}
+
+.wrap {
+  background: white;
+  width: 700px;
+  margin: 40px auto;
+  padding: 40px;
+  overflow: hidden;
+}
+
+.head {
+  background: lightblue;
+
+  text-align: right;
+  color: teal;
+}
+
+.side {
+  float: left;
+  width: 30%;
+  background: teal;
+  color: white;
+  padding: 15px;
+  border: 2px solid teal;
+}
+
+.main {
+
+  float: right;
+  width: 60%;
+}
+
+.box {
+  background: lightblue;
+
+  border: 2px solid teal;
+  padding: 15px;
+  margin-bottom: 15px;
+}
